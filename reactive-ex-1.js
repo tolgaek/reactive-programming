@@ -9,4 +9,4 @@ x = 15;
 
 var x = 15;
 
-Assert (y, 16); // When x changes, the y value was automatically updated to reflect its value
+Assert(y, 16); // When x changes, the y value was automatically updated to reflect its value

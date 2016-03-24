@@ -6,4 +6,5 @@ Assert(y, 6);
 
 // Some action that changes x to 15
 x = 15;
-Asert(y, 6); // y is still 6
+
+Assert(y, 6); // y is still 6
